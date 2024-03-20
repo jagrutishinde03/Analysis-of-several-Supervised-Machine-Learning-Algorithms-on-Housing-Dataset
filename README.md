@@ -1,0 +1,2 @@
+# Analysis-of-several-Supervised-Machine-Learning-Algorithms-on-Housing-Dataset
+Analysis of several Machine Learning Models on Housing Datasets - Linear Regression, Ridge Regression, Lasso Regression, Decision Tree and Random Forest. Calculated the Best score, Root mean square error and Mean Absolute Error. Random Forest performed the best with maximum score and the least Root mean square error and mean absolute error.
